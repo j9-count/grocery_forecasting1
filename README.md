@@ -145,7 +145,7 @@ Click the "Download Forecast CSV" button to export data
 - NumPy 1.26.2
 
 **Machine Learning:**
-- LightGBM 4.1.0 (if models included)
+- LightGBM 4.1.0 
 - Scikit-learn 1.3.2
 
 **Deployment:**
