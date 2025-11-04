@@ -116,7 +116,7 @@ grocery_forecasting1/
 ##  How to Use the App
 
 ### 1. Select Store
-Choose from available Guayaquil stores (Store 44, 45, 47, etc.)
+Choose from available Guayaquil stores (Store 24, 34, 51)
 
 ### 2. Select Product Family
 Pick a product category (GROCERY, BEVERAGES, CLEANING, etc.)
