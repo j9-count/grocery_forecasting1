@@ -3,7 +3,7 @@
 ## Corporación Favorita Sales Forecasting
 Interactive forecasting application for Guayaquil stores, deployed on Streamlit Cloud.
 
-**🌐 Live App:** [Your App URL Here](https://your-app.streamlit.app)
+**🌐 Live App:** https://groceryforecasting1-gxfbcpuahvc76ijyrff4ga.streamlit.app/
 
 ---
 
@@ -238,7 +238,7 @@ This project is for educational and demonstration purposes.
 
 ## 🔗 Quick Links
 
-- **Live App**: [Your Streamlit App URL](https://your-app.streamlit.app)
+- **Live App**: [https://groceryforecasting1-gxfbcpuahvc76ijyrff4ga.streamlit.app/]
 - **GitHub Repo**: [grocery_forecasting1](https://github.com/YOUR-USERNAME/grocery_forecasting1)
 - **Streamlit Cloud**: [share.streamlit.io](https://share.streamlit.io)
 - **Documentation**: See project notebooks 
