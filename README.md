@@ -179,9 +179,9 @@ This project is for educational and demonstration purposes.
 
 ## 🔗 Quick Links
 
-- **Live App**: https://groceryforecasting1-gxfbcpuahvc76ijyrff4ga.streamlit.app/
-- **GitHub Repo**: https://github.com/j9-count/grocery_forecasting.git
-- **Streamlit Cloud**: share.streamlit.io](https://share.streamlit.io
+- **Live App**: [https://groceryforecasting1-gxfbcpuahvc76ijyrff4ga.streamlit.app/]
+- **GitHub Repo**: [https://github.com/j9-count/grocery_forecasting.git]
+- **Streamlit Cloud**: [https://share.streamlit.io]
 - **Documentation**: See project notebooks 
 
 ---
