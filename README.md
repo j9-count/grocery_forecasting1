@@ -53,7 +53,6 @@ Interactive forecasting application for Guayaquil stores, deployed on Streamlit 
 
 **Live App:** Deployed at [share.streamlit.io](https://share.streamlit.io)
 
-
 ---
 
 
